@@ -1,8 +1,9 @@
 {
   "name": "modern-ant",
-  "displayName": "modern-ant",
+  "displayName": "Modern Ant",
   "description": "A simple merge of Dark v2 and the ant theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "repository": "github:olivernybo/modern-ant",
   "engines": {
     "vscode": "^1.78.0"
   },
