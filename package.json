@@ -1,0 +1,21 @@
+{
+  "name": "modern-ant",
+  "displayName": "modern-ant",
+  "description": "A simple merge of Dark v2 and the ant theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Modern Ant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Modern Ant-color-theme.json"
+      }
+    ]
+  }
+}
