@@ -4,6 +4,10 @@
   "description": "A simple merge of Dark v2 and the ant theme",
   "version": "1.0.0",
   "repository": "github:olivernybo/modern-ant",
+  "publisher": "nybo-development",
+  "author": {
+	"name": "Oliver Nybo"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },
