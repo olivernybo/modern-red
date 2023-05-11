@@ -1,3 +1,3 @@
-# Modern Ant
+# Modern Red
 
-Modern Ant is a modernized version of the classic theme Ant, but combined with the new and great Dark Modern theme.
+Modern Red is a custom theme based on Dark Modern. It is a dark theme with red accents.

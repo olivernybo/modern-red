@@ -1,7 +1,7 @@
 {
-  "name": "modern-ant",
-  "displayName": "Modern Ant",
-  "description": "A simple merge of Dark Modern and the ant theme",
+  "name": "modern-red",
+  "displayName": "Modern Red",
+  "description": "A simple dark theme with red accents, based on the Dark Modern theme.",
   "version": "1.1.0",
   "repository": "github:olivernybo/modern-ant",
   "publisher": "nybo-development",
@@ -17,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Modern Ant",
+        "label": "Modern Red",
         "uiTheme": "vs-dark",
-        "path": "./themes/Modern Ant-color-theme.json"
+        "path": "./themes/Modern Red-color-theme.json"
       }
     ]
   }
