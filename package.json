@@ -2,8 +2,8 @@
   "name": "modern-red",
   "displayName": "Modern Red",
   "description": "A simple dark theme with red accents, based on the Dark Modern theme.",
-  "version": "1.1.0",
-  "repository": "github:olivernybo/modern-ant",
+  "version": "1.2.0",
+  "repository": "github:olivernybo/modern-red",
   "publisher": "nybo-development",
   "author": {
     "name": "Oliver Nybo"
